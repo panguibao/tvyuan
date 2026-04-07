@@ -13,7 +13,7 @@
 1. 打开 **Cloudflare → Workers & Pages**
 2. 点击 **Create Worker**
 3. 删除默认原始代码
-4. 复制或粘贴 `worker.js` 内容
+4. 复制或粘贴 `worker.js` 内容（也可直接Fork项目用`Pages`部署）
 5. 点击 `Save and Deploy`  保存
 
 ---
